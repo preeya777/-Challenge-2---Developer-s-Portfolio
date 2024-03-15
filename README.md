@@ -8,6 +8,8 @@ This repository contains a simple web page showcasing Preeya's developer portfol
 
 Demo
 Live Demo: Preeya's Developer Portfolio
+https://github.com/preeya777/-Challenge-2---Developer-s-Portfolio
+https://preeya777.github.io/-Challenge-2---Developer-s-Portfolio/
 
 Installation Instructions
 To run this project locally, follow these steps:
