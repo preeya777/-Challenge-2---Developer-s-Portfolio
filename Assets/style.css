@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff; /* White background */
+}
+
+header {
+  background-color: #3498db; /* Blue header background */
+  color: #fff;
+  padding: 20px;
+  text-align: center; /* Center the text */
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center; /* Center the navigation links */
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  display: flex; /* Apply flexbox to the main content */
+  flex-wrap: wrap; /* Allow content to wrap */
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+}
+
+section {
+  padding: 20px;
+  text-align: center; /* Center the section content */
+  flex: 1 0 100%; /* Each section takes full width initially */
+}
+
+.about {
+  background-color: #3498db; /* Blue background for About section */
+  color: #fff; /* White text color */
+}
+
+.work {
+  background-color: #2ecc71; /* Green background for Work section */
+  color: #fff; /* White text color */
+}
+
+.contact {
+  background-color: #ffffff; /* White background for Contact section */
+  color: #333; /* Dark gray text color */
+}
+
+.applications {
+  display: flex;
+  flex-wrap: wrap; /* Allow applications to wrap */
+  justify-content: center; /* Center the applications */
+}
+
+.applications a {
+  flex: 0 0 30%; /* Adjust the width as needed */
+  margin: 10px;
+}
+
+.applications a img {
+  width: 100%;
+  border: 2px solid #ccc;
+  transition: transform 0.3s ease-in-out;
+}
+
+.applications a img:hover {
+  transform: scale(1.1);
+}
