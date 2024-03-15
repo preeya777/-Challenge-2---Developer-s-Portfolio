@@ -6,8 +6,6 @@ Flexbox Portfolio
 Description
 This repository contains a simple web page showcasing Preeya's developer portfolio. The page includes sections for about, work, and contact information. It's designed to demonstrate the use of Flexbox layout in creating a responsive and visually appealing portfolio website.
 
-Screenshots/GIFs
-
 Demo
 Live Demo: Preeya's Developer Portfolio
 
