@@ -35,5 +35,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contact Information
 For questions, feedback, or collaboration opportunities, please contact Preeya via:
 
-Email: preeya@example.com
+Email: preeya@gmail.com
 Twitter: @preeya_dev
